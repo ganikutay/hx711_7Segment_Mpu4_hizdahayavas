@@ -1,0 +1,3 @@
+# hx711_7Segment_Mpu4_hizdahayavas
+hx711_ve_7_segment_ve_mpu_4_hiz_daha_yavas
+Mavi isaretli dosya.
